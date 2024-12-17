@@ -1,13 +1,13 @@
-package com.project.AccountMS;
+package com.project.AccountsMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AccountMsApplication {
+public class AccountsMsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AccountMsApplication.class, args);
+		SpringApplication.run(AccountsMsApplication.class, args);
 	}
 
 }
